@@ -1,6 +1,7 @@
 ## **Agri Loan Eligibility Prediction Web Application**
 
 **This project is submitted by Thrivikram Sai Teja Padala** as part of a learning initiative to apply data analytics and machine learning for practical problem-solving. The goal of this project is to assist farmers in determining their eligibility for agricultural loans using predictive modeling techniques.
+
 ![image](https://github.com/user-attachments/assets/0c1185e4-e96d-443d-9033-d853465d1e4b)
 
 ---
@@ -45,19 +46,3 @@ The model is trained on a synthetically generated dataset based on domain knowle
 2. Fill in the form with your agricultural and financial details.
 3. Click “Predict” to see whether you're eligible for a loan.
 4. The model will return results as either **"Eligible"** or **"Not Eligible"**.
-
----
-
-## **Author**
-
-- Thrivikram Sai Teja Padala
-
----
-
-## **Acknowledgements**
-
-Special thanks to my instructors, peers, and contributors who guided me throughout this project. I would also like to thank platforms like Kaggle and SmartBridge for providing inspiration and resources for project-based learning.
-
----
-
-Let me know if you'd like a shorter version for GitHub's README or a markdown version for direct copy-paste.

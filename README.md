@@ -1,6 +1,6 @@
 ## **Agri Loan Eligibility Prediction Web Application**
 
-**This project is submitted by Thrivikram Sai Teja Padala** as part of a learning initiative to apply data analytics and machine learning for practical problem-solving. The goal of this project is to assist farmers in determining their eligibility for agricultural loans using predictive modeling techniques.
+**This project is submitted by Thrivikram Sai Teja Padala, Krunal patel, Krunal Vasava, Vikram, and Niyamathulla ** as part of a learning initiative to apply data analytics and machine learning for practical problem-solving. The goal of this project is to assist farmers in determining their eligibility for agricultural loans using predictive modeling techniques.
 
 ![image](https://github.com/user-attachments/assets/0c1185e4-e96d-443d-9033-d853465d1e4b)
 

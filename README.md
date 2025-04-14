@@ -46,3 +46,9 @@ The model is trained on a synthetically generated dataset based on domain knowle
 2. Fill in the form with your agricultural and financial details.
 3. Click “Predict” to see whether you're eligible for a loan.
 4. The model will return results as either **"Eligible"** or **"Not Eligible"**.
+
+---
+
+## **Acknowledgements**
+
+We would like to express our gratitude to Professor A. Sodiq Shofoluwe for providing us with the opportunity to work on this project and enhance our skills in Data science, machine learning and web development.

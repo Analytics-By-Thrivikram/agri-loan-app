@@ -51,4 +51,4 @@ The model is trained on a synthetically generated dataset based on domain knowle
 
 ## **Acknowledgements**
 
-We would like to express our gratitude to Professor A. Sodiq Shofoluwe for providing us with the opportunity to work on this project and enhance our skills in Data science, machine learning and web development.
+We would like to express our gratitude to Professor A. Sodiq Shofoluwe(sodiq.shof@gmail.com) for providing us with the opportunity to work on this project and enhance our skills in Data science, machine learning and web development.
